@@ -3,8 +3,7 @@
     <img alt="logo" src="public/logo.svg" width="60" />
   </a>
   <h1 align="center">
-    Tiptop
-  </h1>
+Fashionnova Clone  </h1>
 </p>
 
 ## Description
